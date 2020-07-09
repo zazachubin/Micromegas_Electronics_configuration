@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fine_configuration>
+    <name>DUBNA Test</name>
+
+    
+
+    <board id="8">
+        <name>MMFE8-08</name>
+        <ip>192.168.0.8</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board0_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board0_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+    <board id="9">
+        <name>MMFE8-09</name>
+        <ip>192.168.0.9</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board1_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board1_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+    <board id="10">
+        <name>MMFE8-10</name>
+        <ip>192.168.0.10</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board2_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board2_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+    <board id="11">
+        <name>MMFE8-11</name>
+        <ip>192.168.0.11</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board3_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board3_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+    <board id="12">
+        <name>MMFE8-12</name>
+        <ip>192.168.0.12</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board4_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board4_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+    <board id="13">
+        <name>MMFE8-13</name>
+        <ip>192.168.0.13</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board5_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board5_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+    <board id="14">
+        <name>MMFE8-14</name>
+        <ip>192.168.0.14</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board6_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board6_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+    <board id="15">
+        <name>MMFE8-15</name>
+        <ip>192.168.0.15</ip>
+        <configuration type="BOARD">
+            <common>  /home/zaza/Documents/fine_config_test/data/common_board_spi.json </common>
+        </configuration>
+
+        <configuration id="0" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm0.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="1" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm1.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="2" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm2.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="3" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm3.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="4" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm4.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="5" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm5.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="6" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm6.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+        <configuration id="7" type="VMM">
+            <global>  /home/zaza/Documents/fine_config_test/data/globals_board7_vmm7.json </global>
+            <channel> /home/zaza/Documents/fine_config_test/data/channels_board7_vmm_common.json </channel>
+        </configuration>
+
+
+    </board>
+
+
+
+</fine_configuration>
